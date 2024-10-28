@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nowazish-Nur-Kayef
 - 👀 I’m interested in Coding and mathematics.
-- 🌱 I’m currently learning C, Python,HTML, CSS, Javascript, and Mathematics for Olympiad.
+- 🌱 I’m currently learning C, Python, HTML, CSS, Javascript, and Mathematics for Olympiad.
 - 💞️ I’m looking to collaborate on fun and exciting projects in robotics.
 - 📫 How to reach me? quickmathclub@gmail.com
 
