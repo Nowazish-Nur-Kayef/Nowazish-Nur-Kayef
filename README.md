@@ -17,7 +17,6 @@
 <details>
 <summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Nowazish-Nur-Kayef&theme=tokyonight"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nowazish-Nur-Kayef&theme=tokyonight"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nowazish-Nur-Kayef&theme=tokyonight"/></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nowazish-Nur-Kayef&theme=tokyo-night"/></p>
