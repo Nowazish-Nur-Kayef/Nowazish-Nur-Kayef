@@ -27,7 +27,7 @@
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 <p>
-  <a href="https://discord.gg/990277247904657449"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
+  <a href="https://discord.gg/JGjGDUTxeC"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
 </p>
 
 </details>
