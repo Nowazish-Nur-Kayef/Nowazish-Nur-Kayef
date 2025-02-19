@@ -82,6 +82,7 @@
     <a href="https://helpx.adobe.com/photoshop/documentation.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop" alt="Adobe Photoshop"></a>
     <a href="https://helpx.adobe.com/premiere-pro/user-guide.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=premiere" alt="Adobe Premier Pro"/></a>
     <a href="https://help.figma.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="Figma"></a>
+    <a href="https://www.arduino.cc/"><img src="https://go-skill-icons.vercel.app/api/icons?i=arduino" alt="Arduino"></a>
   </p>
 
 </details>
