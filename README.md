@@ -13,6 +13,12 @@
 - 🔨 I also know a bit of hacking (Ethical Purposes)
 
 ---
+<h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💖My+Interests;&font=Poppins"></h3>
+
+<a><img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C"></a>
+<a><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++"></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/375px-Kali_Linux_2.0_wordmark.svg.png" style="height: 45px; width: 50px;" alt="Kali-Linux"></a>
+<a><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="Next.Js"></a>
 
 <details>
 <summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
@@ -37,7 +43,6 @@
 
   <p align="center">
     <a href="https://zen-browser.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=zen" alt="Zen"></a>
-    <a href="https://neovim.io"><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim" alt="Neovim"></a>
     <a href="https://zed.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=zed" alt="Zed"></a>
     <a href="https://vscode.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="Vscode"></a>
     <a href="https://github.com/tmux/tmux"><img src="https://go-skill-icons.vercel.app/api/icons?i=tmux" alt="Tmux"></a>
