@@ -87,6 +87,21 @@
 
 </details>
 
+<details>
+<summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=⚡My+Activity;&font=Poppins"></h3></summary>
+  
+---
+
+| Development | / | Designing |
+|----------------------------------------------------------------------------------|--|----------------------|
+| Head Developer of Collegiate School Math Club's website | / | Logo Designer of Collegiate School Math Club |
+| Head Developer of Choton's English Care // Prerona Tutorial Home's website & app | / |  |
+
+
+---
+
+</details>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nowazish-Nur-Kayef/Nowazish-Nur-Kayef/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nowazish-Nur-Kayef/Nowazish-Nur-Kayef/output/github-snake.svg" />
