@@ -2,7 +2,7 @@
 
 <a href="https://visitcountpro.netlify.app"><p align="right"><img src="https://visitcountpro.netlify.app/api?id=Nowazish-Nur-Kayef&label=Profile%20Views&color=0&icon=1&pretty=true"></p></a>
 
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+Kayef;A+Nature+Lover🌱;A+Linux+Enthusiast🐧;&font=Poppins"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!👋;I+Am+Kayef;A+Nature+Lover🌱;A+Linux+Enthusiast🐧;&font=Poppins&center=true"></h3>
 
 ---
 
@@ -13,7 +13,7 @@
 - 🔨 I also know a bit of hacking (Ethical Purposes)
 
 ---
-<h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💖My+Interests;&font=Poppins"></h3>
+<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=💖+My+Interests;&font=Poppins"></h3>
 
 <a><img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C"></a>
 <a><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++"></a>
@@ -21,7 +21,7 @@
 <a><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="Next.Js"></a>
 
 <details>
-<summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
+<summary><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=📊+My+Statistics;&font=Poppins"></h3></summary>
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nowazish-Nur-Kayef&theme=tokyonight"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nowazish-Nur-Kayef&theme=tokyonight"/></p>
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-<summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
+<summary><h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 <p>
   <a href="https://discord.gg/JGjGDUTxeC"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💻+Frameworks,+Libraries+And+Tools;💻+That+I+Use;&font=Poppins"></h3></summary>
+  <summary><h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Frameworks,+Libraries+And+Tools;💻+That+I+Use;&font=Poppins"></h3></summary>
 
   <p align="center">
     <a href="https://zen-browser.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=zen" alt="Zen"></a>
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-<summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=⚡My+Activity;&font=Poppins"></h3></summary>
+<summary><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+My+Activity;&font=Poppins"></h3></summary>
   
 ---
 
@@ -109,4 +109,4 @@
 </picture>
 
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting+💖;&font=Poppins&center=true"></p>
