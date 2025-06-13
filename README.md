@@ -1,5 +1,4 @@
 
-
 <a href="https://visitcountpro.netlify.app"><p align="right"><img src="https://visitcountpro.netlify.app/api?id=Nowazish-Nur-Kayef&label=Profile%20Views&color=0&icon=1&pretty=true"></p></a>
 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!👋;I+Am+Kayef;A+Nature+Lover🌱;A+Linux+Enthusiast🐧;&font=Poppins&center=true"></h3>
@@ -11,13 +10,14 @@
 - 💽 Currently I know C, HTML, CSS, JavaScript, and Python.
 - 💻 Learning to be a Full-Stack Developer.
 - 🔨 I also know a bit of hacking (Ethical Purposes)
+- 🛡️ Passionate about cybersecurity and penetration testing with Kali Linux
 
 ---
 <h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=💖+My+Interests;&font=Poppins"></h3>
 
 <a><img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C"></a>
 <a><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++"></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/375px-Kali_Linux_2.0_wordmark.svg.png" style="height: 45px; width: 50px;" alt="Kali-Linux"></a>
+<a><img src="https://www.kali.org/images/kali-logo.svg" style="height: 45px; width: 50px;" alt="Kali-Linux"></a>
 <a><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="Next.Js"></a>
 
 <details>
@@ -45,12 +45,8 @@
     <a href="https://zen-browser.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=zen" alt="Zen"></a>
     <a href="https://zed.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=zed" alt="Zed"></a>
     <a href="https://vscode.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="Vscode"></a>
-    <a href="https://github.com/tmux/tmux"><img src="https://go-skill-icons.vercel.app/api/icons?i=tmux" alt="Tmux"></a>
-    <a href="https://archlinux.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=arch" alt="Arch"></a>
-    <a href="https://hyprland.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" alt="Hyprland"></a>
-    <a href="https://sw.kovidgoyal.net/kitty/"><img src="https://go-skill-icons.vercel.app/api/icons?i=kitty" alt="Kitty"></a>
+    <a href="https://www.kali.org"><img src="https://www.kali.org/images/kali-logo.svg" style="height: 45px; width: 50px;" alt="Kali-Linux"></a>
     <a href="https://doc.rust-lang.org/stable/book/"><img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust"></a>
-    <a href="https://www.lua.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=lua" alt="Lua"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS"></a>
     <a href="https://tailwindcss.com/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="TailwindCSS"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML5"></a>
@@ -68,20 +64,15 @@
     <a href="https://github.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" alt="Github Pages"></a>
     <a href="https://github.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="Github Actions"></a>
     <a href="https://github.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" alt="Github Copilot"></a>
-    <a href="https://vim.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=vim" alt="Vim"></a>
     <a href="https://git-scm.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git"></a>
     <a href="https://vercel.com/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="Vercel"></a>
     <a href="https://netlify.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=netlify" alt="Netlify"></a>
     <a href="https://nextjs.org/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="Next.js"></a>
     <a href="https://nodejs.org/api/"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="NodeJS"></a>
-    <a href="https://docs.mongodb.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="MongoDB"></a>
-    <a href="https://www.postgresql.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="Postgres"></a>
     <a href="https://www.sqlite.org/docs.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="SQLite"></a>
     <a href="https://helpx.adobe.com/acrobat/reader.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat" alt="Adobe Acrobat Reader"></a>
     <a href="https://helpx.adobe.com/illustrator/documentation.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator" alt="Adobe Illustrator"></a>
     <a href="https://helpx.adobe.com/photoshop/documentation.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop" alt="Adobe Photoshop"></a>
-    <a href="https://helpx.adobe.com/premiere-pro/user-guide.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=premiere" alt="Adobe Premier Pro"/></a>
-    <a href="https://help.figma.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="Figma"></a>
     <a href="https://www.arduino.cc/"><img src="https://go-skill-icons.vercel.app/api/icons?i=arduino" alt="Arduino"></a>
   </p>
 
@@ -96,7 +87,22 @@
 |----------------------------------------------------------------------------------|--|----------------------|
 | Head Developer of Collegiate School Math Club's website | / | Logo Designer of Collegiate School Math Club |
 | Head Developer of Choton's English Care // Prerona Tutorial Home's website & app | / |  |
+| Cybersecurity enthusiast with focus on penetration testing using Kali Linux | / | UI/UX Designer for web applications |
 
+
+---
+
+</details>
+
+<details>
+<summary><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔐+Cybersecurity+Skills;&font=Poppins"></h3></summary>
+
+---
+
+- **Network Security**: Proficient in network scanning
+- **Web Application Security**: Try to identify and exploit web vulnerabilities
+- **Penetration Testing**: Used various Kali Linux tools for security assessments
+- **Security Tools**: Familiar with Nmap, Burp Suite, Wireshark, some other security tools
 
 ---
 
